@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24601#El-cuarto-poder
 gutenberg_issued: '2008-02-13'
 gutenberg_type: Text
 identifiers:
